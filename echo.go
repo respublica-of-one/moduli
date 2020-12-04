@@ -3,5 +3,5 @@ package modules
 import "fmt"
 
 func EchoVersion() {
-	fmt.Println("version 2")
+	fmt.Println("version 3")
 }
